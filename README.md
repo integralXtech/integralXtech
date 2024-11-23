@@ -4,8 +4,6 @@
 - ↪ Who we are? IntegralX is a forward-thinking technology company dedicated to delivering innovative and customized solutions across diverse industries. We specialize in web and mobile app development, artificial intelligence, hardware development, chip design, and bespoke software and hardware solutions. Our mission is to empower businesses with cutting-edge technology and tailor-made services that meet their unique needs. With a team of skilled professionals and a passion for excellence, we strive to turn complex challenges into seamless solutions, helping our clients thrive in an ever-evolving digital landscape.
  At IntegralX, we don’t just build technology; we build possibilities.
 
-- 👨‍💻 All of our projects are available at [https://integral-x.vercel.app/](https://integral-x.vercel.app/)
-
 - 🏗️ what we build? At IntegralX, we build innovative solutions that redefine technology and empower businesses to achieve their goals. Our offerings include: 
 Web Applications: Scalable, secure, and dynamic websites and applications tailored to your business needs.
  Mobile Apps: User-friendly mobile experiences for iOS and Android, crafted to captivate and engage your audience. 
@@ -15,6 +13,8 @@ Cutting-edge hardware components and custom-designed chips for specialized appli
  Custom Software: Tailored software solutions that align perfectly with your unique processes and objectives. 
 Integrated Hardware & Software Systems: Seamless integration of hardware and software for complete, end-to-end solutions. 
 At IntegralX, we don’t just build products; we create value-driven, transformative technologies that empower your business to excel in a competitive world.
+
+- 👨‍💻 All of our projects are available at [https://integral-x.vercel.app/](https://integral-x.vercel.app/)
 
 - 📫 How to reach us integralx.tech@gmail.com
 
