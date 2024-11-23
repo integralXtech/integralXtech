@@ -21,8 +21,8 @@ At IntegralX, we don’t just build products; we create value-driven, transforma
 <h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/integralx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="integralx" height="30" width="40" /></a>
-<a href="https://fb.com/integralx.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="integralx.tech" height="30" width="40" /></a>
-<a href="https://instagram.com/integralx.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="integralx.tech" height="30" width="40" /></a>
+<a href="https://fb.com/integralx.tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="integralx.tech" height="30" width="40" /></a>
+<a href="https://www.instagram.com/integralx.tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="integralx.tech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
